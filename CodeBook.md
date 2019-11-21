@@ -11,6 +11,15 @@ I set up my work space accordingly and the data contained in the UCI HAR Dataset
 
 2. Read in the specific data and assign it to the assigned variables
 
+activitylabels for the activity_labels.txt
+features for the features.txt
+subjecttrain for the subject_train.txt
+subjecttest for the subject_test.txt
+xtrain for the x_train.txt
+xtest for the x_test.txt
+ytrain for the y_train.txt
+ytest for the y_test.txt
+
 3. Merge the training and test set in subject, X, and Y to create one data set
 
 To start, I made 3 separate tables:
