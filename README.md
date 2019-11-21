@@ -1,4 +1,6 @@
-# HumanActivitySmartPhoneCleanData
+# Human Activity SmartPhone Clean Data 
+
+## Average of each variable for each activity and each subject
 
 Cleaning up data from Human Activity Recognition Using Smartphones Data Set
 
