@@ -34,7 +34,7 @@ Then I merged these three tables into
 
 4.  Extracted only the measurements on the mean and standard deviation for each measurement and stored it in the variable 
 
-*meanandstddata
+* meanandstddata
 
 5. Gave better descriptive and more detailed names to the variables such as
 
