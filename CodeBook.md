@@ -32,7 +32,7 @@ Then I merged these three tables into
 
 * MergedSubjectXY
 
-Extracted only the measurements on the mean and standard deviation for each measurement and stored it in the variable 
+Extracted only the measurements on the mean and standard deviation for each measurement and stored it in the data set 
 
 * meanandstddata
 
