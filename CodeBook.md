@@ -2,14 +2,14 @@
 
 The run_analysis.R script cleans the data and prepares it using the following 5 steps:
 
-Load in all of the data
+First step is to load in all of the data.
 
 For this first step, I downloaded the files directly to my computer from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 I set up my work space accordingly and the data contained in the UCI HAR Dataset
 
-Read in the specific data and assign it to the assigned variables
+I then read in the specific data and assign it to the assigned variables
 
 * activitylabels for the activity_labels.txt
 * features for the features.txt
@@ -20,7 +20,7 @@ Read in the specific data and assign it to the assigned variables
 * ytrain for the y_train.txt
 * ytest for the y_test.txt
 
-Merge the training and test set in subject, X, and Y to create one data set
+I then merged the training and test set in subject, X, and Y to create one data set
 
 To start, I made 3 separate tables:
 
